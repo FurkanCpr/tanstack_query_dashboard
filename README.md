@@ -1,3 +1,7 @@
+![Screenshot_3](https://github.com/user-attachments/assets/1ce3f199-1506-430a-ac7f-169def82a7db)
+
+![Screenshot_4](https://github.com/user-attachments/assets/384a51db-2951-426c-bd3e-f873de6d5b9c)
+
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 Follow these steps:
